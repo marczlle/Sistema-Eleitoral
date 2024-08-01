@@ -6,7 +6,7 @@ Java script, node.js (v20.11.1).
 
 ## Package manager:
 
-readline-sync
+mysql2
 [https://www.npmjs.com/package/readline-sync?activeTab=readme](https://www.npmjs.com/package/mysql2)
 
 ![https://img.shields.io/npm/v/:packageName](https://img.shields.io/npm/v/mysql2) 
